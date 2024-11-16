@@ -1,8 +1,9 @@
 .final {
     display: flex;
     gap: 120px;
-    position: absolute;
-    bottom: 0px;
+    position: relative;
+    margin-top: auto;
+    padding: 20px 0;
     background-color: rgba(1, 116, 1, 0.895);
     width: 100%;
     height: auto;
@@ -32,7 +33,7 @@
 
 }
 
-.text1 {
+.ftext1 {
     font-size: 15px;
     letter-spacing: 0.5px;
     line-height: 20px;
@@ -68,7 +69,7 @@
     font-weight: 400;
 }
 
-.quick{
+.quick {
     font-size: 25px;
     font-weight: 400;
     color: rgba(243, 241, 241, 0.97);
@@ -83,7 +84,7 @@
     right: 50px;
 }
 
-ul li.Cs{
+ul li.Cs {
     font-size: 25px;
     font-weight: 400;
     color: rgba(243, 241, 241, 0.97);
