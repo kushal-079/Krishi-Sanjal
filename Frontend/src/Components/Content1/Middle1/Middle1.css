@@ -23,7 +23,8 @@
       line-height: 60px;
       min-height: 375px;
       position: relative;
-      top: 50px;
+      top: 40px;
+      margin-bottom: 60px;
 }
 
 .h31, .h32, .h33{
@@ -61,6 +62,7 @@
     border: 1px solid;
     border-radius: 30px;
     width: 180px;
+    cursor: pointer;
 }
 
 .b2 button{
